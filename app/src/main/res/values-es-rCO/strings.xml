@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje_txt">Bienvenido</string>
+    <string name="imagen_descripcion_txt">imagen de Gumfire</string>
+</resources>

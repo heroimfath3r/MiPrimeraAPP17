@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MyPrimeraApp</string>
+    <string name="mensaje_txt">Welcome</string>
+    <string name="imagen_descripcion_txt">Gumfire image</string>
+</resources>
